@@ -8,7 +8,7 @@ function App() {
   return (<>
     <Header/>
     <Switch>
-      <Route exact path='/' component={Productlist}></Route>
+      <Route exact path='/noesisproject' component={Productlist}></Route>
       <Route path='/Productdetails/:id' component={Productdetails}></Route>
     </Switch></>
   );
