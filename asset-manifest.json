@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noesis-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/noesis-project/static/js/main.2e63650d.chunk.js",
+    "main.js.map": "/noesis-project/static/js/main.2e63650d.chunk.js.map",
+    "runtime-main.js": "/noesis-project/static/js/runtime-main.408bb3be.js",
+    "runtime-main.js.map": "/noesis-project/static/js/runtime-main.408bb3be.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/noesis-project/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.4c8eff4a.chunk.js": "/noesis-project/static/js/2.4c8eff4a.chunk.js",
+    "static/js/2.4c8eff4a.chunk.js.map": "/noesis-project/static/js/2.4c8eff4a.chunk.js.map",
+    "static/js/3.b58b2cac.chunk.js": "/noesis-project/static/js/3.b58b2cac.chunk.js",
+    "static/js/3.b58b2cac.chunk.js.map": "/noesis-project/static/js/3.b58b2cac.chunk.js.map",
+    "index.html": "/noesis-project/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/noesis-project/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/noesis-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4c8eff4a.chunk.js.LICENSE.txt": "/noesis-project/static/js/2.4c8eff4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408bb3be.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.4c8eff4a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2e63650d.chunk.js"
+  ]
+}
